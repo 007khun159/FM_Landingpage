@@ -3,9 +3,9 @@ import Banking  from '../images/image-mockups.png'
 
 function hero() {
   return (
-    <div className=''>
-
-    </div>
+    <main>
+      <sec
+    </main>
   )
 }
 

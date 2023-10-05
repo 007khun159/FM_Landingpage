@@ -10,7 +10,7 @@ function App() {
   
     <body className='bg-netral-200 font-main overflow-x-hidden'>
       <Navbar/>
-      
+      <Hero/>
     </body>
        
   )
