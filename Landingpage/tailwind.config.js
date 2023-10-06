@@ -34,7 +34,12 @@ export default {
       main: ["Public Sans", "sans-serif"],
     },
 
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'mockup_bg': "url('./src/images/bg-intro-desktop.svg')",
+      },
+    },
+    
   },
   plugins: [
     plugin(function ({ addBase }) {
